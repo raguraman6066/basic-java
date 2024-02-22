@@ -1,4 +1,4 @@
-package com.example.lib;
+package java_basics;
 
 public class BasicClass {
     public static void main(String[] args) {//entry point of program
